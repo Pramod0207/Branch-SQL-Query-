@@ -1,4 +1,4 @@
-
+![Image Alt](https://github.com/Pramod0207/Branch-SQL-Query-/blob/main/Screenshot%202026-07-31%20202137.png?raw=true).
 
 # Branch-SQL-Query-
 A SQL-based insurance branch management database designed for business analytics, featuring relational database design, advanced SQL queries, joins, aggregations, and reporting to support an interactive Branch Policy Dashboard.
